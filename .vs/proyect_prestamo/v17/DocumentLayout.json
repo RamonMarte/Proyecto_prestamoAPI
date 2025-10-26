@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AA1D7788-6FDA-4038-9D41-D809767CD51A}|proyect_prestamo.csproj|c:\\users\\marte\\onedrive\\documentos\\proyecto_mony\\proyect_prestamo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA1D7788-6FDA-4038-9D41-D809767CD51A}|proyect_prestamo.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1D7788-6FDA-4038-9D41-D809767CD51A}|proyect_prestamo.csproj|c:\\users\\marte\\onedrive\\documentos\\proyecto_mony\\proyect_prestamo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1D7788-6FDA-4038-9D41-D809767CD51A}|proyect_prestamo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA1D7788-6FDA-4038-9D41-D809767CD51A}|proyect_prestamo.csproj|c:\\users\\marte\\onedrive\\documentos\\proyecto_mony\\proyect_prestamo\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA1D7788-6FDA-4038-9D41-D809767CD51A}|proyect_prestamo.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{AA1D7788-6FDA-4038-9D41-D809767CD51A}|proyect_prestamo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1D7788-6FDA-4038-9D41-D809767CD51A}|proyect_prestamo.csproj|c:\\users\\marte\\onedrive\\documentos\\proyecto_mony\\proyect_prestamo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA1D7788-6FDA-4038-9D41-D809767CD51A}|proyect_prestamo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA1D7788-6FDA-4038-9D41-D809767CD51A}|proyect_prestamo.csproj|c:\\users\\marte\\onedrive\\documentos\\proyecto_mony\\proyect_prestamo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AA1D7788-6FDA-4038-9D41-D809767CD51A}|proyect_prestamo.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +66,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-26T13:12:49.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -70,12 +87,11 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T19:23:51.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T19:23:51.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "RegistrosUsuarios.cs",
               "DocumentMoniker": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\Modelos\\RegistrosUsuarios.cs",
               "RelativeDocumentMoniker": "Modelos\\RegistrosUsuarios.cs",
@@ -83,12 +99,11 @@
               "RelativeToolTip": "Modelos\\RegistrosUsuarios.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T19:22:10.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T19:22:10.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Usuarios.cs",
               "DocumentMoniker": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\Modelos\\Usuarios.cs",
               "RelativeDocumentMoniker": "Modelos\\Usuarios.cs",
@@ -96,25 +111,23 @@
               "RelativeToolTip": "Modelos\\Usuarios.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T19:17:36.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T19:17:36.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
               "ToolTip": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T17:26:22.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T17:26:22.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -122,25 +135,11 @@
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T19:23:55.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T19:23:55.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUsuarioServices.cs",
-              "DocumentMoniker": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\Services\\IUsuarioServices.cs",
-              "RelativeDocumentMoniker": "Services\\IUsuarioServices.cs",
-              "ToolTip": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\Services\\IUsuarioServices.cs",
-              "RelativeToolTip": "Services\\IUsuarioServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T19:22:30.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -148,12 +147,23 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T18:36:34.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T18:36:34.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "IUsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\Services\\IUsuarioServices.cs",
+              "RelativeDocumentMoniker": "Services\\IUsuarioServices.cs",
+              "ToolTip": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\Services\\IUsuarioServices.cs",
+              "RelativeToolTip": "Services\\IUsuarioServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T19:22:30.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UsuarioService.cs",
               "DocumentMoniker": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\Services\\UsuarioService.cs",
               "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
@@ -161,12 +171,11 @@
               "RelativeToolTip": "Services\\UsuarioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T17:33:45.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T17:33:45.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -174,12 +183,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-24T17:27:54.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T17:27:54.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\marte\\OneDrive\\Documentos\\proyecto_mony\\proyect_prestamo\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -187,8 +195,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-24T17:27:44.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T17:27:44.375Z"
             }
           ]
         }
